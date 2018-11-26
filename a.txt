@@ -1,2 +1,3 @@
 change1: testing
 change2: updated this file
+change3: new text updated
